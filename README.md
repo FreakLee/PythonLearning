@@ -4,3 +4,4 @@
 ## 学习索引及简介
 * 第一天 [初识Python](https://github.com/FreakLee/PythonLearning/tree/main/Day1)
 * 第二天 [Python基础](https://github.com/FreakLee/PythonLearning/tree/main/Day2)
+* 第三天 [数据结构](https://github.com/FreakLee/PythonLearning/tree/main/Day3)
