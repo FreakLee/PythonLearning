@@ -6,3 +6,5 @@
 * 第二天 [Python基础](https://github.com/FreakLee/PythonLearning/tree/main/Day2)
 * 第三天 [数据结构](https://github.com/FreakLee/PythonLearning/tree/main/Day3)
 * 第四天 [控制流与循环](https://github.com/FreakLee/PythonLearning/tree/main/Day4)
+* 第五天 [推导式、函数、迭代器与生成器](https://github.com/FreakLee/PythonLearning/tree/main/Day5)
+* 第六天 [模块](https://github.com/FreakLee/PythonLearning/tree/main/Day6)
