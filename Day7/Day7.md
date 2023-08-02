@@ -196,7 +196,7 @@ class TestStringMethods(unittest.TestCase):
 if __name__ == '__main__':
     unittest.main()
 ```
-运行上面测试代码可以得到如下![测试结果](https://github.com/FreakLee/PythonLearning/blob/main/Screenshot/Day7/1.jpg)
+运行上面测试代码可以得到如下测试结果：![测试结果](https://github.com/FreakLee/PythonLearning/blob/main/Screenshot/Day7/1.jpg)
 
 ## 文档测试
 Python中的文档测试可以帮助开发者测试代码的正确性，并且可以自动生成文档。以下是一个详细的Python中文档测试操作示例：
