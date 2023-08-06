@@ -8,4 +8,5 @@
 * 第四天 [控制流与循环](https://github.com/FreakLee/PythonLearning/tree/main/Day4)
 * 第五天 [推导式、函数、迭代器与生成器](https://github.com/FreakLee/PythonLearning/tree/main/Day5)
 * 第六天 [模块](https://github.com/FreakLee/PythonLearning/tree/main/Day6)
-* 第七天 [异常处理、调试与测试](https://github.com/FreakLee/PythonLearning/tree/main/Day6)
+* 第七天 [异常处理、调试与测试](https://github.com/FreakLee/PythonLearning/tree/main/Day7)
+* 第八天 [面向对象、命名空间与作用域](https://github.com/FreakLee/PythonLearning/tree/main/Day8)
