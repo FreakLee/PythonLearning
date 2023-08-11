@@ -12,3 +12,4 @@
 * 第八天 [面向对象、命名空间与作用域](https://github.com/FreakLee/PythonLearning/tree/main/Day8)
 * 第九天 [输入、输出、File与OS](https://github.com/FreakLee/PythonLearning/tree/main/Day9)
 * 第十天 [网络、数据库、多线程及异步编程](https://github.com/FreakLee/PythonLearning/tree/main/Day10)
+* 第十一天 [NumPy（基础篇）](https://github.com/FreakLee/PythonLearning/tree/main/Day11)
