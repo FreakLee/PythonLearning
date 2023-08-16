@@ -13,3 +13,4 @@
 * 第九天 [输入、输出、File与OS](https://github.com/FreakLee/PythonLearning/tree/main/Day9)
 * 第十天 [网络、数据库、多线程及异步编程](https://github.com/FreakLee/PythonLearning/tree/main/Day10)
 * 第十一天 [NumPy（基础篇）](https://github.com/FreakLee/PythonLearning/tree/main/Day11)
+* 第十二天 [NumPy（进阶篇）](https://github.com/FreakLee/PythonLearning/tree/main/Day12)
